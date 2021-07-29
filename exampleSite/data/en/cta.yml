@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: "/images/bg.jpg"
+  bg_image_webp: "/images/bg.webp"
   title: Great Design & Incredible Features
   content: |-
     If there’s anything that a business needs to grow and thrive, it’s a strong online presence. Many small and medium businesses have found immense success by going digital. A user-friendly website, a clear outline of the company’s services coupled with a good SEO strategy can make a huge difference in both growth and revenue.
