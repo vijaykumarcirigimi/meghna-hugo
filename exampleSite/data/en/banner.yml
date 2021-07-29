@@ -4,8 +4,15 @@ banner:
   bg_image_webp: "/images/home.webp"
   bg_image: "/images/home.jpg"
   icon: ''
-  title: ''
-  content: ''
+  title: Vijay Kumar is a reputed and experienced Digital Marketing Consultant and
+    SEO Expert in Bangalore. We offer high-end Online Marketing, Web Design, Content
+    Writing and Search Engine Optimization services in Bangalore that allow you to
+    compete fiercely in the specialized niche of today. The key to successful advertising
+    is capturing the attention and inspiring the consciousness of the prospective
+    audience.
+  content: For all his clients, Vijay Kumar prides himself on providing memorable,
+    exclusive, and inspiring experiences. To guarantee your brand is a respected champion
+    online, we promise to maximize all achievement barriers.
   button:
     enable: true
     label: My Services
