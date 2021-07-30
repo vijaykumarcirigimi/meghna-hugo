@@ -1,0 +1,18 @@
+---
+cta:
+  enable: true
+  bg_image: "/images/bg.jpg"
+  bg_image_webp: "/images/bg.webp"
+  title: What I Do
+  content: |-
+    If there’s anything that a business needs to grow and thrive, it’s a strong online presence. Many small and medium businesses have found immense success by going digital. A user-friendly website, a clear outline of the company’s services coupled with a good SEO strategy can make a huge difference in both growth and revenue.
+
+    Having been in the digital marketing game for over a decade, I’ve worked with some of the top eCommerce websites in India and have created winning strategies for their growth. I have also engaged with start-ups and developed their entire digital marketing blueprint.
+
+    My strategy as an SEO expert is simple – Analyse, Empathize, Create, and Engage; analyse your needs, empathize, create the services you require, and engage to build a lasting relationship.
+  button:
+    enable: true
+    label: Start a project with us
+    link: "#contact"
+title: cta2.yml
+draft: true
