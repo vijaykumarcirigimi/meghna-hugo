@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: "/images/bg1webp.webp"
-  bg_image: "/images/bg1.jpg"
+  bg_image: "/images/bg1-min.jpg"
   icon: ''
   title: SEO Expert in Bangalore
   content: Get a Free Website Audit Report
