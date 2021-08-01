@@ -5,8 +5,9 @@ service:
   service_item:
   - name: Keyword Research
     icon: ti-world
-    content: I use various research tools to analyse your business needs and find
-      and suggest relevant keywords to improve your website’s visibility online.
+    content: I use various keyword research tools to analyse your business needs and
+      suggest relevant keywords to improve your website’s visibility in Google search
+      results page.
   - name: Link Building
     icon: ti-layout
     content: My expertise in SEO link building will make sure that credible and authoritative
