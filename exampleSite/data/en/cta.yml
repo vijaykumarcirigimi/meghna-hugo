@@ -13,7 +13,7 @@ cta:
 
     # Introduction
 
-    > outcome:
+    > ## outcome:
 
     - learn how to create and share Rmarkdown document
     - learn various document type, e.g html, pdf and docx
