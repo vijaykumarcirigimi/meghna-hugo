@@ -26,7 +26,7 @@ service:
     icon: ti-package
     content: I will help your business set up a strong social media presence including
       on websites such as Facebook, Twitter, Instagram, and LinkedIn.
-  - name: Content Writing & Web Design
+  - name: Content & Web Design
     icon: ti-pulse
     content: If your website badly needs a makeover, then I will provide top-class
       website designs, landing page designs for ads that are SEO-friendly, attractive,
