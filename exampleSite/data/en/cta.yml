@@ -12,6 +12,11 @@ cta:
     My strategy as an SEO expert is simple – Analyse, Empathize, Create, and Engage; analyse your needs, empathize, create the services you require, and engage to build a lasting relationship.
 
     # Test
+    > outcome:
+
+    - learn how to create and share Rmarkdown document
+    - learn various document type, e.g html, pdf and docx
+    - ~~learn to fly the rocket!~~
   button:
     enable: true
     label: Start a project with us
