@@ -1,11 +1,14 @@
 ---
 skill:
   enable: true
-  title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title: Skills
+  subtitle: Highly Experienced SEO Expert
+  content: As an SEO expert, I have led internal teams and provided strategic guidance
+    in many successful campaigns, both online and offline. I have also demonstrated
+    my ability to drive sales and increase brand awareness. I bring the best of the
+    best digital strategies to your table. So, if you’re searching for a brilliant
+    SEO expert or a top freelance digital marketing service in Bangalore, your search
+    ends here.
   image: "/images/about/company-growth.png"
   skill_item:
   - name: SEO
