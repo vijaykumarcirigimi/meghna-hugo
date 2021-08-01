@@ -1,7 +1,7 @@
 ---
 cta:
   enable: true
-  bg_image: "/images/bg.jpg"
+  bg_image: "/images/cta-1.jpg"
   bg_image_webp: "/images/bg.webp"
   title: What I Do
   content: |-
