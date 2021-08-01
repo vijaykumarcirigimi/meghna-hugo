@@ -4,51 +4,13 @@ cta:
   bg_image: "/images/cta-min.jpg"
   bg_image_webp: "/images/ctawebp.webp"
   title: What I Do
-  content: |-
+  content: |+
     If there’s anything that a business needs to grow and thrive, it’s a strong online presence. Many small and medium businesses have found immense success by going digital. A user-friendly website, a clear outline of the company’s services coupled with a good SEO strategy can make a huge difference in both growth and revenue.
 
     Having been in the digital marketing game for over a decade, I’ve worked with some of the top eCommerce websites in India and have created winning strategies for their growth. I have also engaged with start-ups and developed their entire digital marketing blueprint.
 
     My strategy as an SEO expert is simple – Analyse, Empathize, Create, and Engage; analyse your needs, empathize, create the services you require, and engage to build a lasting relationship.
 
-    # Introduction
-
-    > ## outcome:
-
-    - learn how to create and share Rmarkdown document
-    - learn various document type, e.g html, pdf and docx
-    - ~~learn to fly the rocket!~~
-
-
-    The bottom line is - I would like to learn Rmarkdown!
-    <br>
-    Like **seriously** become **good** at it !
-
-    ## Task list for today
-
-    - [X] Get aspired to learn Rmarkdown
-    - [ ] Get to know three core components of the Rmarkdown document (header, body, R chunks)
-    - [ ] Practice, practice !
-
-    ## Code
-
-    You can use single backtick on each side of the code for inline code or triple backticks for standalone code block
-
-    ```bash
-    #!/bin/bash
-
-    echo "Why am I doing BASH in this course?"
-
-    Rscript --vanilla run_away.R
-    ```
-
-    ## Math
-
-    This is a covariance equation, random variable $X$ co-variace with random variable $Y$, where $\bar{X} = mean(X)$ and $\bar{Y} = mean(Y)$ and $N$ is a size of a random sample from the population.
-
-    $$cov(X,Y) = \frac{\sum(X_{i}-\bar{X})(Y_{i}-\bar{Y})}{N-1}$$
-
-    [for more LaxTex syntax here](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
   button:
     enable: true
     label: Start a project with us
